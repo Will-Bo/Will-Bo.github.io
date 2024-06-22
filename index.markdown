@@ -4,6 +4,5 @@
 
 layout: home
 ---
-# Introduction
 
 Welcome to my personal website and portfolio! You can find more information on who I am on my [about me]({{ site.url }}/about/) page. Otherwise, feel free to look through my various projects. 
